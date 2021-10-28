@@ -40,6 +40,16 @@ body {
   .container {
     padding: 0 16px;
   }
+
+  .buttomContainer {
+    padding: 0 16px;
+    display: flex;
+  }
+
+  buttonP {
+    flex: 1;
+    padding: 16px;
+  }
   
   .container::after, .row::after {
     content: "";
