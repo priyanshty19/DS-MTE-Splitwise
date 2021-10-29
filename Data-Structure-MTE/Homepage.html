@@ -10,6 +10,7 @@
     <script src="index.js"></script>
     <script src="algorithm.js"></script>
     <script src="build_graph.js"></script>
+    <script src="removeElement.js"></script>
     
     <style>
         input[type=text], select {
@@ -47,14 +48,13 @@
         <div class="myinput">
             <center>
                 <h3>Enter data to minimize</h3>
-                <div id="first">
-                    <button id="addItem" onclick = add() > Add Item </button>
-                </div>
                 <div id = "list">
                     <form>      
                     </form>
                 </div>
                 <div id="first">
+                    <button id="addItem" onclick = add() > Add Item </button>
+                    <!-- <button id = "removeResult" onclick = "removeOutput('ansList')" > Remove Result </button> -->
                     <button id = "run" onclick = extract() > Run </button>
                 </div>
                 <h3>Proposed Solution and Problem Visualization</h3>
