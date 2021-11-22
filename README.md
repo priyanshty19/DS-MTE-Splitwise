@@ -22,3 +22,13 @@ It outputs the final sequence of transactions to be made after simplifying debts
 | Landing Page | ![image](https://user-images.githubusercontent.com/55807508/142859819-30ef4741-12b0-48ec-93ac-410f8ba26ef4.png) |
 | After Generating Solution | ![image](https://user-images.githubusercontent.com/55807508/142859711-8dc1edce-b9f1-4aa3-8f6f-dc2bbfc77a55.png) |
 | About Splitzi Screen | ![image](https://user-images.githubusercontent.com/55807508/142859762-af361db1-40a3-4932-ac0a-5f0e3c4e73fd.png) |
+
+#### Contributors
+<table>
+    <tr>
+      <td align="center"><a href="https://github.com/hemangdtu"><img src="https://avatars.githubusercontent.com/u/55807508?v=4" width="100px;" alt="Hemang Sinha"/><br /><sub><b>Hemang Sinha</b></sub></a></td>
+      <td align="center"><a href="https://github.com/priyanshty19"><img src="https://avatars.githubusercontent.com/u/53999267?v=4" width="100px;" alt="Priyansh Tyagi"/><br /><sub><b>Priyansh Tyagi</b></sub></a></td>
+    </tr>
+</table>
+
+#### Don't forget to Star(⭐) the repository.
